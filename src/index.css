@@ -96,8 +96,8 @@ h1 {
 
 .again {
   position: absolute;
-  bottom: 2rem;
-  left: 65rem;
+  top: 2rem;
+  left: 2rem;
 }
 
 .guess {

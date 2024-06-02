@@ -34,6 +34,7 @@ function MainContent({ setCorrectNum, setBgColor, bgColor }) {
         setMessage("🤯 You lost the game!");
       }
     }
+
     setGuessNumber("");
   };
 
